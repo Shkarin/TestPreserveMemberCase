@@ -1,0 +1,9 @@
+D:\Projects\TestBuild2\TestPreserveMemberCase\TestPreserveMemberCase\bin\Debug\TestPreserveMemberCase.dll
+D:\Projects\TestBuild2\TestPreserveMemberCase\TestPreserveMemberCase\bin\Debug\TestPreserveMemberCase.pdb
+D:\Projects\TestBuild2\TestPreserveMemberCase\TestPreserveMemberCase\bin\Debug\Bridge.dll
+D:\Projects\TestBuild2\TestPreserveMemberCase\TestPreserveMemberCase\bin\Debug\Bridge.Html5.dll
+D:\Projects\TestBuild2\TestPreserveMemberCase\TestPreserveMemberCase\bin\Debug\Bridge.xml
+D:\Projects\TestBuild2\TestPreserveMemberCase\TestPreserveMemberCase\bin\Debug\Bridge.Html5.xml
+D:\Projects\TestBuild2\TestPreserveMemberCase\TestPreserveMemberCase\obj\Debug\TestPreserveMemberCase.csprojResolveAssemblyReference.cache
+D:\Projects\TestBuild2\TestPreserveMemberCase\TestPreserveMemberCase\obj\Debug\TestPreserveMemberCase.dll
+D:\Projects\TestBuild2\TestPreserveMemberCase\TestPreserveMemberCase\obj\Debug\TestPreserveMemberCase.pdb
